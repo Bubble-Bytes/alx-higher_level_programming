@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pyhon3 -c "$PYCODE"
